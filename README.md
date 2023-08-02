@@ -53,7 +53,7 @@ npm install
 
 <div className="w-full">
   <video autoPlay width="100%" loop muted controls>
-    <source src="/assets/select_template_express.mp4" />
+    <source src="https://docs.akeero.com/assets/select_template_express.mp4" />
   </video>
 </div>
 
@@ -61,7 +61,7 @@ npm install
 
 <div className="w-full">
   <video autoPlay width="100%" loop muted controls>
-    <source src="/assets/rename_express_project.mp4" />
+    <source src="https://docs.akeero.com/assets/rename_express_project.mp4" />
   </video>
 </div>
 
@@ -69,7 +69,7 @@ npm install
 
 <div className="w-full">
   <video autoPlay width="100%" loop muted controls>
-    <source src="/assets/save_locally.mp4" />
+    <source src="https://docs.akeero.com/assets/save_locally.mp4" />
   </video>
 </div>
 
